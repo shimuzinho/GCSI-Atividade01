@@ -7,5 +7,5 @@ function cristiano () {
 }
 
 function lapis () {
-    console.log(30);
+    console.log("Lapis");
 }
