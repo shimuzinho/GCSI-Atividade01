@@ -1,11 +1,11 @@
 function carro () {
-    console.log();
+    console.log("Carro");
 }
 
 function cristianoRonaldo () {
-    console.log();
+    console.log(30);
 }
 
 function lapis () {
-    console.log();
+    console.log(30);
 }
