@@ -5,3 +5,7 @@ function carro () {
 function cristianoRonaldo () {
     console.log();
 }
+
+function lapis () {
+    console.log();
+}
