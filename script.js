@@ -2,8 +2,8 @@ function carro () {
     console.log("Carro");
 }
 
-function cristianoRonaldo () {
-    console.log(30);
+function cristiano () {
+    console.log("Cristiano");
 }
 
 function lapis () {
